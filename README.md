@@ -1,4 +1,4 @@
-twitter-autofollow-bot
-======================
+Twitter Autofollow-bot
+===========================
 
-A bot to help build Twitter followers
+This project will allow a user to automatically follow other users based on their interests and location and build their follower numbers.
